@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Lex</h1>
 <h3 align="left">A passionate frontend developer from Taiwan</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memoriaxii&" alt="memoriaxii" /></p>
 
 - 🔭 I’m currently working on **my upcoming startup!**
 
@@ -17,4 +18,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memoriaxii&" alt="memoriaxii" /></p>
+
