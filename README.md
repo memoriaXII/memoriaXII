@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **my upcoming startup!**
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Web3,Solidity**
 
 - 👯 I’m looking to collaborate on **on open source software**
 
