@@ -12,18 +12,16 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "Swift", "PHP"],
+    code: ["Javascript"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
+        frontEnd: {
+            js: ["React", "Vue"],
+        },
         backEnd: {
-            js: ["Node", "Fastify", "Express", "SuiteScript"],
+            js: ["Node", "Fastify", "Express"],
         },
-        mobileApp: {
-            native: ["Android Development", "IOS Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["mongo"],
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Ios Mobile App Development",
