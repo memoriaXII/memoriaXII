@@ -6,30 +6,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=memoriaXII.memoriaXII)
 
 
-
-### A little more about me...  
-
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue"],
-        },
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
-        databases: ["mongo"],
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Ios Mobile App Development",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
----
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C075%20hrs%2035%20mins-blue)
 
