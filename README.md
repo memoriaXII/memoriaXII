@@ -13,19 +13,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 0 Contributions in the Year 2022
- > 
-> 📦 159.1 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 20 Private Repositories  
-
-
 
 💬 Programming Languages:
 
