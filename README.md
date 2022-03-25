@@ -16,7 +16,7 @@
 
 💬 Programming Languages:
 
-📦 JavaScript         
+📦 JavaScript 📦 React.js    
 📦 Typescript
 📦 Solidity
 
