@@ -1,10 +1,6 @@
 <h2>I'm LemondeZachi</h2>
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/lemondezachi?label=Follow)](https://twitter.com/intent/follow?screen_name=lemondezachi)
-![GitHub followers](https://img.shields.io/github/followers/memoriaXII?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=memoriaXII.memoriaXII)
-
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C075%20hrs%2035%20mins-blue)
